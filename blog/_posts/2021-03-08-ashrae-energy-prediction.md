@@ -15,6 +15,8 @@ Modern buildings use a lot of Electrical energy for various applications like he
 
 But these retrofits in the scale of a large building can be quite expensive. So, instead of paying the price for retrofits upfront; customers can be billed as if the retrofits were not fit for a certain period; till the equipment costs are recovered.
 
+<!--more-->
+
 > *"Retrofitting"* - refers to the process of updating older equipment with new technology.
 
 Let's assume these variables to be `true_cost` and `assumed_cost`.
