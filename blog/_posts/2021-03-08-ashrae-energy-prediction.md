@@ -4,7 +4,7 @@ layout: "post"
 data: 2020-03-08 18:30:00 +0530
 categories: projects ashrae-energy-prediction
 permalink: /:categories
-truncated_previews: true
+truncated_preview: true
 excerpt_separator: <!--more-->
 ---
 
@@ -218,5 +218,5 @@ Both files have 9 columns.
    - Represents wind speed. Looks like reading are in miles per hour
 
 ## Exploratory data analysis
-
+![](../images/ashrae-energy-prediction/eda/buildings by area.png)
 
