@@ -220,5 +220,5 @@ Both files have 9 columns.
    - Represents wind speed. Looks like reading are in miles per hour
 
 ## Exploratory data analysis
-![](../images/ashrae-energy-prediction/eda/buildings by area.png)
+![](../images/ashrae-energy-prediction/eda/reading vs primary.png)
 
