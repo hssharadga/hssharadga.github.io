@@ -220,5 +220,65 @@ Both files have 9 columns.
    - Represents wind speed. Looks like reading are in miles per hour
 
 ## Exploratory data analysis
-![](../images/ashrae-energy-prediction/eda/reading vs primary.png)
+
+
+**No. of Buildings per site**:
+
+![Buildings by Site Id](../images/ashrae-energy-prediction/eda/buildings by site.png)
+
+- There is a large variation of sites with no. of buildings
+
+- We observe most sites to have about 50-150 buildings.
+
+- Site no. 3 has most no. of buildings and Sites 11,7,10,12 have few no. of buildings.
+
+
+**No. of Buildings by usage**:
+
+![Buildings by Usage](../images/ashrae-energy-prediction/eda/buildings by usage.png)
+
+
+- Most buildings are used for Educational purposes and office purposes
+
+- So we might expect majority of buildings to have most electrical load from 9:00 to 18:00
+
+- We might also expect to have most buildings where vacation months have low consumption.
+
+
+**No. of Buildings by area**:
+
+![Buildings by Area](../images/ashrae-energy-prediction/eda/buildings by area.png)
+
+
+- Most building's area are less than 100,000
+
+- Area of building can correlate with no. of occupants and electrical consumption.
+
+
+**No. of Buildings by year**:
+
+![Buildings by Year](../images/ashrae-energy-prediction/eda/buildings by year built.png)
+
+
+- We observe a spike in no. of buildings built in around 1960-1980 and after 2000.
+
+- We can expect some correlation with year built and power consumption, since newer equipment is usually more power efficienct.
+
+
+**No. of Buildings by floors**:
+
+![Buildings by Floor](../images/ashrae-energy-prediction/eda/buildings by floors.png)
+
+
+- floor count data can give a precise indication of no. of occupants when combined with area of building data.
+
+- But this data has high number (75%) of NaN values which may prevent us to fully take advantage of this feature.
+
+**Air temperature at a site**:
+
+
+Air temperature at site 0 for a period of 12 months:
+
+{% include_relative assets/ashrae-energy-prediction/air_temp_site0.html %}
+
 
