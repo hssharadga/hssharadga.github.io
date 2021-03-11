@@ -973,9 +973,18 @@ Final working of deployed app:
 
 ![Deployed](../images/ashrae-energy-prediction/deployed.gif)
 
-## Github repo
+## Conclusions & Future Work
 
-Link : [https://github.com/brpy/ashrae-energy-prediction](https://github.com/brpy/ashrae-energy-prediction){:target="_blank"}
+- A single Lgbm model performed very well considering that leak data is not used.
+- With better hardware, each unique lgbm per meter type or site or building can be built to improve performance further.
+- This works because each lgbm model can capture the pattern of each meter, site or building.
+- A custom ensembling of many such lgbm and other models can be used for final prediction.
+
+## Profile
+
+Github Repo : [https://github.com/brpy/ashrae-energy-prediction](https://github.com/brpy/ashrae-energy-prediction){:target="_blank"}
+
+LinkedIn : [https://www.linkedin.com/in/bhargav-chowdary-714b1b6a/](https://www.linkedin.com/in/bhargav-chowdary-714b1b6a/){:target="_blank"}
 
 ### *References:*
 
@@ -986,3 +995,4 @@ Link : [https://github.com/brpy/ashrae-energy-prediction](https://github.com/brp
 - [kaggle 1st place](https://www.kaggle.com/c/ashrae-energy-prediction/discussion/124709){:target="_blank"}
 - [Strategy evaluation: What helps and by how much? - Kaggle](https://www.kaggle.com/purist1024/strategy-evaluation-what-helps-and-by-how-much/){:target="_blank"}
 - [ASHRAE - Data minification - Kaggle](https://www.kaggle.com/kyakovlev/ashrae-data-minification){:target="_blank"}
+- [Applied Ai Course](https://appliedaicourse.com){:target="_blank"}
