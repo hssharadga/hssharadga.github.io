@@ -1,7 +1,7 @@
 ---
 title: "Ashrae Energy Prediction - Case Study"
 layout: "post"
-date: 2020-03-08 18:30:00 +0530
+date: 2021-03-08 18:30:00 +0530
 categories: projects ashrae-energy-prediction
 permalink: /:categories
 truncated_preview: true
