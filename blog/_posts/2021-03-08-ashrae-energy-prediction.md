@@ -541,7 +541,7 @@ By now we have finished adding new features and all the dataframes can be saved 
 
 **Log encoding**:
 
-Before training the models, we transform the meter_reading value into $$\log_e(mr+1)$$  where $$mr$$ is `meter_reading` ; using `np.log1p()` (1p stands for "one plus"). This reduces the scale of the target variable and makes our models robust. This allows us to use RMSLE loss for training our models and this encoding greatly improved the leaderboard scores.
+Before training the models, we transform the meter_reading value into $$\log_e(mr+1)$$  where $$mr$$ is `meter_reading` ; using `np.log1p()` (1p stands for "one plus"). This reduces the scale of the target variable and makes our models robust. This allows us to use RMSE loss for training our models and this encoding greatly improved the leaderboard scores.
 
 We also have to decode the values back to original scale $$e^t-1$$ where $$t$$ is the transformed variable; by using `np.expm1()` (m1 stands for "minus one").
 ```python
