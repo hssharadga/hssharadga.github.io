@@ -523,7 +523,7 @@ building_df['primary_use'] = le.fit_transform(building_df['primary_use']).astype
 
 **Dropping Few Site 0 data**:
 
-- Almost all of readings from this site are zeros in the beggining of the year.
+- Almost all of readings from this site are zeros in the beginning of the year.
 - We pick an arbitary date so that most no. of total readings are zeros and drop them from the train data.
 
 ```python
