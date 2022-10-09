@@ -984,7 +984,7 @@ Final working of deployed app:
 
 Github Repo : [https://github.com/brpy/ashrae-energy-prediction](https://github.com/brpy/ashrae-energy-prediction){:target="_blank"}
 
-LinkedIn : [https://www.linkedin.com/in/bhargav-chowdary-714b1b6a/](https://www.linkedin.com/in/bhargav-chowdary-714b1b6a/){:target="_blank"}
+LinkedIn : [https://www.linkedin.com/in/bhargav-chowdary-v/](https://www.linkedin.com/in/bhargav-chowdary-v/){:target="_blank"}
 
 ### *References:*
 
