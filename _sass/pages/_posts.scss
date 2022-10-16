@@ -15,13 +15,21 @@
 .post-title a {
   color: $post-title-color;
 }
-.page-title,
+
+.page-title
+{
+  margin-top: 0;
+}
+
 .post-title {
   margin-top: 0;
+  display: flex;
+  float: left;
 }
 
 // Meta data line below post title
 .post-date {
-  display: inline-block;
+  display: flex;
+  float: right;
   color: $post-date-color;
 }
