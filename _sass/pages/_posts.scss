@@ -6,12 +6,6 @@
 
 .page,
 .post {
-  display: block;
-  margin-bottom: 0.4em;
-}
-
-.posts {
-  display: block;
   margin-bottom: 0.4em;
 }
 
@@ -28,15 +22,11 @@
 }
 
 .post-title {
-  display: flex;
-  float: left;
   margin-top: 0;
 
 }
 
 // Meta data line below post title
 .post-date {
-  display: flex;
-  float: right;
   color: $post-date-color;
 }
