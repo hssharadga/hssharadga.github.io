@@ -28,6 +28,7 @@
 
 // Meta data line below post title
 .post-date {
- 
+  display: flex;
+  float: right;
   color: $post-date-color;
 }
