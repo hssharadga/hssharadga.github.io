@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              brpy
-  url:               brpy.github.io
-  email:             
+  name:              Hussein Sharadga
+  url:               https://hssharadga.github.io/
+  email:             hssharadga@utexas.edu
 
 plugins:
   - jekyll-coffeescript
