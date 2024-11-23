@@ -9,6 +9,6 @@ This code was awarded $115K in a national competition by ARPA-E.
 
 For detailed information, refer to the following publications:
 
-![IEEE-TPEC](./assets/IEEE_TPEC.pdf) <br>
-![IEEE Transacations](./assets/IEEE_TIA.pdf)
+![IEEE-TPEC](https://github.com/hssharadga/hssharadga.github.io/blob/main/assets/IEEE_TPEC.pdf) <br>
+![IEEE Transacations](https://github.com/hssharadga/hssharadga.github.io/blob/main/assets/IEEE_TIA.pdf)
 
