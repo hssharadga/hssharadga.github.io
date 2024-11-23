@@ -3,11 +3,10 @@ layout: page
 title: " "
 ---
 
-Explore My Recent Tool for Large-Scale Smart Grid Optimization
+Explore My Python Tool for Large-Scale Smart Grid Optimization, awarded $115K in an ARPA-E competition, detailed in the following publications:
 
-This code, awarded $115K in an ARPA-E national competition, is detailed in the following publications:
+[IEEE Transactions](https://raw.githubusercontent.com/hssharadga/hssharadga.github.io/main/assets/IEEE_TIA.pdf)
 
-[IEEE-TPEC](https://github.com/hssharadga/hssharadga.github.io/blob/main/assets/IEEE_TPEC.pdf)  
-[IEEE Transactions](https://github.com/hssharadga/hssharadga.github.io/blob/main/assets/IEEE_TIA.pdf)
+[IEEE-TPEC](https://raw.githubusercontent.com/hssharadga/hssharadga.github.io/main/assets/IEEE_TPEC.pdf)  
 
 
