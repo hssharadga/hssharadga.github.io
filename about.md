@@ -3,7 +3,7 @@ layout: page
 title: " "
 ---
 
-My Python Tool for Power Grid Optimization has been awarded $115K in an  <i>ARPA-E competition</i>, as detailed in the following publications: <br>
+My tool has been awarded $115K in the <i>ARPA-E</i> Power Grid Optimization competition, as detailed in the following publications: <br>
 
 <!-- [IEEE Transactions](https://hssharadga.github.io/assets/IEEE_TIA.pdf) <br>
 [IEEE- TPEC](https://hssharadga.github.io/assets/IEEE_TPEC.pdf) -->
