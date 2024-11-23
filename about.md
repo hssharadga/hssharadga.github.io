@@ -5,8 +5,8 @@ title: " "
 
 Explore My Python Tool for Large-Scale Smart Grid Optimization, awarded $115K in an ARPA-E competition, detailed in the following publications:
 
+[IEEE Transactions](/assets/IEEE_TIA.pdf){:target="_blank"}
 
-<a href="{{ site.baseurl }}/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions</a>
 
 <a href="https://raw.githubusercontent.com/hssharadga/hssharadga.github.io/main/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC</a>
 
