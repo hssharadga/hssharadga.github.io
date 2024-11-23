@@ -3,8 +3,7 @@ layout: page
 title: " "
 ---
 
-Explore My Python Tool for Large-Scale Smart Grid Optimization, awarded $115K in an ARPA-E competition, detailed in the following publications:
-
+My Python Tool for Power Grid Optimization has been awarded $115K in an ARPA-E competition, as detailed in the following publications: <br>
 [IEEE Transactions](https://hssharadga.github.io/assets/IEEE_TIA.pdf) <br>
 [IEEE- TPEC](https://hssharadga.github.io/assets/IEEE_TPEC.pdf)
 
