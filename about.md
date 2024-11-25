@@ -3,7 +3,7 @@ layout: page
 title: " "
 ---
 
-## Project 1: Smart grid optimization
+## Smart grid optimization
 
 My tool has been awarded **$115K** in the **ARPA-E** Power Grid Optimization competition, <br>
 as detailed in the following publications: <br>
@@ -13,7 +13,7 @@ as detailed in the following publications: <br>
 &nbsp;&nbsp; <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC</a> 
 
 
-## Project 2: Computer vision
+## Computer vision
 My ongoing research focuses on image inpainting — the process of reconstructing missing parts of an image. <br>
 This project explores the use of deep learning and advanced neural networks to improve image restoration accuracy.
 
