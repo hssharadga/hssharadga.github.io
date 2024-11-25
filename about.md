@@ -14,8 +14,10 @@ as detailed in the following publications: <br>
 
 
 ## Computer vision
-My ongoing research focuses on image inpainting — the process of reconstructing missing parts of an image. <br>
-This project explores the use of deep learning and advanced neural networks to improve image restoration accuracy.
+<!-- My ongoing research focuses on image inpainting — the process of reconstructing missing parts of an image. <br>
+This project explores the use of deep learning and advanced neural networks to improve image restoration accuracy. -->
+My research focuses on image inpainting—reconstructing missing parts of an image— <br>
+using deep learning and advanced neural networks.
 
 
 
