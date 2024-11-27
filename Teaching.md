@@ -1,6 +1,6 @@
 ---
 layout: page
-title: " "
+title: "Teaching"
 ---
 
 **Spring 25**:  Smart grid optimization <br>
