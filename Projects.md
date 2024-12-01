@@ -6,7 +6,7 @@ title: "Projects"
 Smart grid optimization
 ---
 
-My tool has been awarded **$115K** in the <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a>  Power Grid Optimization competition, <br>
+My tool was awarded **$115K** in the <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a>  Power Grid Optimization competition, <br>
 as detailed in the following publications: <br>
 &nbsp;&nbsp; <a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions</a>  <br>
 &nbsp;&nbsp; <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC</a> 
