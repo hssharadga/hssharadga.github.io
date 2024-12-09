@@ -3,22 +3,22 @@ layout: page
 title: "Projects"
 ---
 
-Smart grid optimization
+Smart Grid Optimization
 ---
 
-My tool was awarded **$115K** in the <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a>  Power Grid Optimization competition! <br>
+My Python tool was awarded **$115K** in the <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a>  Power Grid Optimization competition! <br>
 Related publications: <br>
 &nbsp;&nbsp; <a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions</a>  <br>
 &nbsp;&nbsp; <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC</a> 
 
 
-Electrical Demand mangement 
+Electrical Demand Management 
 ---
-Explore my PhD disseration with 
- <a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">open Github library</a> .
+Explore my work through a
+<a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">GitHub library</a>.
 
 
-Computer vision
+Computer Vision
 ---
 
 My research focuses on image inpainting—reconstructing missing parts of an image— <br>
