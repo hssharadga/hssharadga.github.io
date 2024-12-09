@@ -11,6 +11,13 @@ as detailed in the following publications: <br>
 &nbsp;&nbsp; <a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions</a>  <br>
 &nbsp;&nbsp; <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC</a> 
 
+
+Electrical Demand mangement 
+---
+Explore my PhD disseration with 
+ <a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">open Github library</a> .
+
+
 Computer vision
 ---
 
