@@ -2,6 +2,7 @@
 layout: page
 title: "Teaching"
 ---
+&nbsp;&nbsp;I taught the following courses as an Assistant Professor at U.S. institutions:
 
 &nbsp;&nbsp;**1. Fluid Dynamics II:** 3 semesters<br>
 &nbsp;&nbsp;**2. Intro Thermodnamics:** 2 semesters<br>
