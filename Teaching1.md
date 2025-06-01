@@ -4,13 +4,13 @@ title: "Teaching"
 ---
 
 
-&nbsp;&nbsp;**Fluid Dynamics II:** 3 semsters <br> 
-&nbsp;&nbsp;**Intro Thermodnamics:** 2 semsters <br> 
-&nbsp;&nbsp;**Thermodynamics II:** 1 semsters <br> 
-&nbsp;&nbsp;**Eng. Graphic:** 2 semsters <br> 
-&nbsp;&nbsp;**Eng. Statistics:** 2 semsters <br>
-&nbsp;&nbsp;**Eng. Modeling & Design:**  2 semsters <br>
-&nbsp;&nbsp;**Heat Transfer:** 2 semsters <br>
-&nbsp;&nbsp;**Computer-Aided Design:** 1 semsters <br>
-&nbsp;&nbsp;**Thermo-Fluid Lab:** 2 semsters <br>
-&nbsp;&nbsp;**Smart Grid Optimization:** 1 semsters <br>
+&nbsp;&nbsp;**1. Fluid Dynamics II:** 3 semesters<br>
+&nbsp;&nbsp;**2. Intro Thermodnamics:** 2 semesters<br>
+&nbsp;&nbsp;**3. Thermodynamics II:** 1 semester<br>
+&nbsp;&nbsp;**4. Eng. Graphic:** 2 semesters<br>
+&nbsp;&nbsp;**5. Eng. Statistics:** 2 semesters<br>
+&nbsp;&nbsp;**6. Eng. Modeling & Design:** 2 semesters<br>
+&nbsp;&nbsp;**7. Heat Transfer:** 2 semesters <br>
+&nbsp;&nbsp;**8. Computer-Aided Design:** 1 semester <br>
+&nbsp;&nbsp;**9. Thermo-Fluid Lab:** 2 semesters <br>
+&nbsp;&nbsp;**10. Smart Grid Optimization:** 1 semester <br>
