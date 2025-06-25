@@ -15,7 +15,7 @@ title: "Projects"
 &nbsp;&nbsp;Explore my work through a
 <a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">GitHub library</a>.
 
-<h3 style="text-align: left;">AI: Computer Vision </h3>
+<h3 style="text-align: left;">AI-based Image Inpainting </h3>
 &nbsp;&nbsp;My research focuses on image inpainting—reconstructing missing parts of an image— <br>
 &nbsp;&nbsp;using deep learning and advanced neural networks.
 <!-- My ongoing research focuses on image inpainting — the process of reconstructing missing parts of an image. <br>
