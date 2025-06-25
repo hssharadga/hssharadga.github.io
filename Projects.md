@@ -11,11 +11,11 @@ title: "Projects"
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC</a> 
 
 
-<h3 style="text-align: left;">Electrical Demand Management </h3>
+<h3 style="text-align: left;">Electrical Demand Management with AI </h3>
 &nbsp;&nbsp;Explore my work through a
 <a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">GitHub library</a>.
 
-<h3 style="text-align: left;">Computer Vision </h3>
+<h3 style="text-align: left;">AI: Computer Vision </h3>
 &nbsp;&nbsp;My research focuses on image inpainting—reconstructing missing parts of an image— <br>
 &nbsp;&nbsp;using deep learning and advanced neural networks.
 <!-- My ongoing research focuses on image inpainting — the process of reconstructing missing parts of an image. <br>
