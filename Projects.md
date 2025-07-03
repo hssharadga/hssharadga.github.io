@@ -20,6 +20,8 @@ title: "Projects"
 &nbsp;&nbsp;using deep learning and advanced neural networks.
 <!-- My ongoing research focuses on image inpainting — the process of reconstructing missing parts of an image. <br>
 This project explores the use of deep learning and advanced neural networks to improve image restoration accuracy. -->
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Preprint</a>  <br>
+
 
 
 
