@@ -17,7 +17,7 @@ title: "Projects"
 
 <h3 style="text-align: left;">AI-based Image Inpainting </h3>
 &nbsp;&nbsp;My research focuses on image inpainting—reconstructing missing parts of an image— <br>
-&nbsp;&nbsp;using deep learning and advanced neural networks.
+&nbsp;&nbsp;using deep learning and advanced neural networks. <br>
 <!-- My ongoing research focuses on image inpainting — the process of reconstructing missing parts of an image. <br>
 This project explores the use of deep learning and advanced neural networks to improve image restoration accuracy. -->
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Preprint</a>  <br>
