@@ -11,20 +11,16 @@ title: "Projects"
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC</a> 
 
 
-<h3 style="text-align: left;">AI-Based Demand Control & Management</h3>
+<h3 style="text-align: left;">AI-Based Projects</h3>
 &nbsp;&nbsp;Explore my work through a
 <a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">GitHub library</a>.
 
-Related publications: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/8839823" target="_blank">Control</a>  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148119320038" target="_blank">Forecasting</a> 
+&nbsp;&nbsp;Related publications: <br>
 
-<h3 style="text-align: left;">AI-Based Image Inpainting </h3>
-&nbsp;&nbsp;My research focuses on image inpainting—reconstructing missing parts of an image— <br>
-&nbsp;&nbsp;using deep learning and advanced neural networks. <br>
-<!-- My ongoing research focuses on image inpainting — the process of reconstructing missing parts of an image. <br>
-This project explores the use of deep learning and advanced neural networks to improve image restoration accuracy. -->
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Preprint</a>  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148119320038" target="_blank">Power Forecasting</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/8839823" target="_blank">Demand-Power Controller</a>  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2071-1050/16/3/1021" target="_blank">Maximum Power Tracking Controller</a>  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Computer Vision: Image Inpainting - Preprint</a>  <br>
 
 
 
