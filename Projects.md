@@ -30,8 +30,7 @@ title: "Projects"
 &nbsp;&nbsp;My Python code was awarded <strong>$115K</strong> in the 
 <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a> Power Grid Optimization competition! <br>
 &nbsp;&nbsp;Related publications: <br>
-&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">
-  IEEE Transactions<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
+&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
 <h3 style="text-align: left;">AI Projects</h3>
@@ -45,8 +44,7 @@ title: "Projects"
   Demand-Power Controller<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 <a href="https://www.mdpi.com/2071-1050/16/3/1021" target="_blank">
   Maximum Power Tracking Controller<span style="display: inline-block; transform: rotate(-45deg);">→</span></a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">
-  Computer Vision: Image Inpainting - Preprint<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Computer Vision: Image Inpainting - Preprint<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
 
 <!-- [IEEE Transactions](https://hssharadga.github.io/assets/IEEE_TIA.pdf) <br>
