@@ -77,7 +77,7 @@ title: "Projects"
       Image Inpainting (Preprint) <span class="arrow">→</span>
     </a>
   </div>
-</div>
+</div> -->
 
 <!-- <h3 style="text-align: left;">Smart Grid Optimization</h3>
 
@@ -97,7 +97,7 @@ title: "Projects"
 <a href="https://ieeexplore.ieee.org/abstract/document/8839823" target="_blank">Demand-Power Controller</a> |
 <a href="https://www.mdpi.com/2071-1050/16/3/1021" target="_blank">Maximum Power Tracking Controller</a> |<br>
 &nbsp;&nbsp;&nbsp;&nbsp;| <a href="https://ssrn.com/abstract=5337189" target="_blank">Computer Vision: Image Inpainting - Preprint</a> |<br> -->
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931021007717" target="_blank">Radiation in Porous Media</a><br> --> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931021007717" target="_blank">Radiation in Porous Media</a><br> --> 
 
 
 
