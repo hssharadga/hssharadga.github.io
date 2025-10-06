@@ -11,11 +11,15 @@ title: "Projects"
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC</a> 
 
 
-<h3 style="text-align: left;">AI-based Demand Management</h3>
+<h3 style="text-align: left;">AI-Based Demand Control & Management</h3>
 &nbsp;&nbsp;Explore my work through a
 <a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">GitHub library</a>.
 
-<h3 style="text-align: left;">AI-based Image Inpainting </h3>
+Related publications: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/8839823" target="_blank">Control</a>  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148119320038" target="_blank">Forecasting</a> 
+
+<h3 style="text-align: left;">AI-Based Image Inpainting </h3>
 &nbsp;&nbsp;My research focuses on image inpainting—reconstructing missing parts of an image— <br>
 &nbsp;&nbsp;using deep learning and advanced neural networks. <br>
 <!-- My ongoing research focuses on image inpainting — the process of reconstructing missing parts of an image. <br>
