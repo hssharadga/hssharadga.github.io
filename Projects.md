@@ -3,12 +3,6 @@ layout: page
 title: "Projects"
 ---
 
-<style>
-  a {
-    text-decoration: underline;
-  }
-</style>
-
 <h3 style="text-align: left;">Smart Grid Optimization</h3>
 
 &nbsp;&nbsp;My Python tool was awarded <strong>$115K</strong> in the 
