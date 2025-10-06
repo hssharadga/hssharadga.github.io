@@ -12,15 +12,16 @@ title: "Projects"
 
 
 <h3 style="text-align: left;">AI-Based Projects</h3>
-&nbsp;&nbsp;Explore my work through a
-<a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">GitHub library</a>.
+<!-- &nbsp;&nbsp;Explore my work through a
+<a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">GitHub library</a>. -->
+&nbsp;&nbsp;These projects apply artificial intelligence and machine learning to improve forecasting, control, and optimization across energy systems and computer vision applications. 
 
 &nbsp;&nbsp;Related publications: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148119320038" target="_blank">Power Forecasting</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148119320038" target="_blank">Power Forecasting</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/8839823" target="_blank">Demand-Power Controller</a>  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2071-1050/16/3/1021" target="_blank">Maximum Power Tracking Controller</a>  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Computer Vision: Image Inpainting - Preprint</a>  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931021007717" target="_blank">Radiation in Prous Media</a>  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931021007717" target="_blank">Radiation in Porous Media</a>  <br>
 
 
 
