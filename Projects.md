@@ -6,6 +6,7 @@ title: "Projects"
 <h3 style="text-align: left;">Smart Grid Optimization</h3>
 
 &nbsp;&nbsp;My Python tool was awarded **$115K** in the <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a>  Power Grid Optimization competition! <br>
+
 &nbsp;&nbsp;Related publications: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions</a>  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC</a> 
