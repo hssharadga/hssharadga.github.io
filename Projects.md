@@ -14,7 +14,7 @@ title: "Projects"
 <h3 style="text-align: left;">AI-Based Projects</h3>
 <!-- &nbsp;&nbsp;Explore my work through a
 <a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">GitHub library</a>. -->
-&nbsp;&nbsp;These projects apply artificial intelligence and machine learning to improve forecasting, control, and optimization across energy systems
+&nbsp;&nbsp;These projects apply artificial intelligence and machine learning to improve forecasting, control, and optimization across energy systems <br>
 &nbsp;&nbsp;and computer vision applications. 
 
 &nbsp;&nbsp;Related publications: <br>
