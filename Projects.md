@@ -16,7 +16,7 @@ title: "Projects"
 <!-- &nbsp;&nbsp;Explore my work through a
 <a href="https://github.com/hssharadga/Sizing-and-Scheduling-PV-Battery" target="_blank">GitHub library</a>. -->
 &nbsp;&nbsp;These projects apply artificial intelligence and machine learning to improve forecasting, control, and optimization across energy systems <br>
-&nbsp;&nbsp;and computer vision applications. 
+&nbsp;&nbsp;and computer vision applications. <br>
 
 &nbsp;&nbsp;Related publications: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148119320038" target="_blank">Power Forecasting</a> <br>
