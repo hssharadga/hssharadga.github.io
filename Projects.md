@@ -101,7 +101,7 @@ title: "Projects"
 
 
 
-<h3 style="text-align: left;">Smart Grid Optimization</h3>
+<h3 style="text-align: left;">A. Smart Grid Optimization</h3>
 
 &nbsp;&nbsp;My Python code was awarded <strong>$115K</strong> in the 
 <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a> Power Grid Optimization competition! <br>
@@ -109,7 +109,7 @@ title: "Projects"
 &nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
-<h3 style="text-align: left;">AI Projects</h3>
+<h3 style="text-align: left;">B. AI Projects</h3>
 
 &nbsp;&nbsp;<strong>Applications:</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;- <strong>Smart Power Grid:</strong> Forecasting, Control & Optimization<br>
