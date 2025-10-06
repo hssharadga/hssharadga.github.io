@@ -14,8 +14,8 @@ title: "Projects"
 <h3 style="text-align: left;">AI Projects</h3>
 
 &nbsp;&nbsp;<strong>Applications:</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Smart Power Grid:</strong> Forecasting, control, and optimization<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Computer Vision:</strong> Image analysis and restoration<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Smart Power Grid:</strong> Forecasting, Control, & Optimization<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Computer Vision:</strong> Image Analysis & Restoration<br><br>
 &nbsp;&nbsp;Related publications: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148119320038" target="_blank">Power Forecasting</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/8839823" target="_blank">Demand-Power Controller</a><br>
