@@ -123,7 +123,7 @@ title: "Projects"
   <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
 <div style="text-align: left;">
-  <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:70px; border-radius:10px;">
+  <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:70px; border-radius:10px; margin-left:4pt;">
 </div>
 
 
