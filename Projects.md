@@ -125,16 +125,16 @@ title: "Projects"
 
 
  <!-- Python logo -->
-  <div>
+ <!--  <div>
     <img src="/assets/python-logo.png" alt="Python" style="width:120px;">
-  </div>
+  </div> -->
 
   <!-- GPU image + text -->
   <div style="display: flex; align-items: center; gap: 15px;">
     <img src="/assets/GPU.jpg" alt="GPU" style="width:140px;">
-    <span style="font-size: 1.1em;">3 GPUs available for AI & Optimization research</span>
+    <span style="font-size: 1.1em;">3 GPUs (2×40 GB, 1×96 GB) for AI and optimization research.</span>
   </div>
-</div>
+
 
 <!-- [IEEE Transactions](https://hssharadga.github.io/assets/IEEE_TIA.pdf) <br>
 [IEEE- TPEC](https://hssharadga.github.io/assets/IEEE_TPEC.pdf) -->
