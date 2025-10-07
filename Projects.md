@@ -130,10 +130,10 @@ title: "Projects"
   </div> -->
 
   <!-- GPU image + text -->
-  <div style="display: flex; align-items: center; gap: 15px;">
+  <!-- <div style="display: flex; align-items: center; gap: 15px;">
     <img src="/assets/GPU.jpg" alt="GPU" style="width:140px;">
     <span style="font-size: 1.1em;">3 GPUs (2×40 GB, 1×96 GB) for AI and optimization research.</span>
-  </div>
+  </div> -->
 
 
 <!-- [IEEE Transactions](https://hssharadga.github.io/assets/IEEE_TIA.pdf) <br>
