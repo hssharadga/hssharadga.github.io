@@ -114,10 +114,9 @@ title: "Projects"
 <hr style="margin: 22px 0;">
 <h3 style="text-align: left;">A. Smart Grid Optimization</h3>
 
-<div style="text-align: center; margin-bottom: 0px;">
+<div style="text-align: left;">
   <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:80px; border-radius:10px;">
 </div>
-
 &nbsp;&nbsp;My Python Tool was awarded <strong>$115K</strong> in the 
 <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a> Power Grid Optimization competition! <br>
 &nbsp;&nbsp;Related publications: <br>
