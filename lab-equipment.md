@@ -45,7 +45,7 @@ permalink: /lab-equipment/
   </div>
 
   <div style="text-align:center;">
-  <img src="/assets/python-logo.png" alt="Python" style="width:100px;">
+  <img src="/assets/python-logo.png" alt="Python" style="width:90px;">
   <!-- <div style="margin-top:5px;">Python</div> -->
   </div>
   
