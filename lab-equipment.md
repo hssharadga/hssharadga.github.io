@@ -26,6 +26,7 @@ permalink: /lab-equipment/
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>TensorFlow / PyTorch / Keras </strong> — for deep learning and forecasting research <br> -->
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Python</strong> — TensorFlow / PyTorch / Keras for AI research <br>
 
+<hr style="margin: 20px 0;">
 
 <!-- <div style="text-align:center; margin-top:30px;">
   <img src="/assets/GPU.jpg" alt="GPU" style="width:150px; margin:10px;">
