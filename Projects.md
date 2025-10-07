@@ -123,6 +123,17 @@ title: "Projects"
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Computer Vision: Image Inpainting - Preprint<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
 
+
+<!-- GPU and GitHub section -->
+<div style="margin-top: 30px; text-align: center;">
+  <img src="/assets/gpu.png" alt="GPU" style="width:180px; margin-bottom:10px;">
+  <br>
+  <a href="https://github.com/hssharadga" target="_blank" style="font-weight:bold; text-decoration:none;">
+    Explore my code on GitHub <span style="display:inline-block; transform: rotate(-45deg);">→</span>
+  </a>
+</div>
+
+
 <!-- [IEEE Transactions](https://hssharadga.github.io/assets/IEEE_TIA.pdf) <br>
 [IEEE- TPEC](https://hssharadga.github.io/assets/IEEE_TPEC.pdf) -->
 
