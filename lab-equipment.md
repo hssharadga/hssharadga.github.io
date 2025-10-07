@@ -27,28 +27,24 @@ permalink: /lab-equipment/
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Python</strong> — TensorFlow / PyTorch / Keras for AI research <br>
 
 
-
-
-<!-- <div style="text-align:center; margin-top:30px;">
-  <img src="/assets/GPU.jpg" alt="GPU" style="width:150px; margin:10px;">
-  <img src="/assets/python-logo.png" alt="Python" style="width:100px; margin:10px;">
-  <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi" style="width:130px; margin:10px;">
-</div> -->
-<!-- Images aligned side by side -->
+<!-- GPU on the left, other two stacked on the right -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-top: 30px; flex-wrap: wrap;">
+
+  <!-- Left side: GPU image -->
   <div style="text-align:center;">
     <img src="/assets/GPU.jpg" alt="GPU" style="width:150px;">
-    <!-- <div style="margin-top:5px;">3 GPUs</div> -->
   </div>
 
-  <div style="text-align:center;">
-    <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi" style="width:160px;">
-    <!-- <div style="margin-top:5px;">Gurobi Solver</div> -->
+  <!-- Right side: Gurobi and Python stacked -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <div style="text-align:center;">
+      <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi" style="width:160px;">
+    </div>
+    <div style="text-align:center;">
+      <img src="/assets/python-logo.png" alt="Python" style="width:110px;">
+    </div>
   </div>
 
-  <div style="text-align:center;">
-  <img src="/assets/python-logo.png" alt="Python" style="width:110px;">
-  <!-- <div style="margin-top:5px;">Python</div> -->
-  </div>
-  
 </div>
+
+
