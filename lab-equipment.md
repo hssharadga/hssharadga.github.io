@@ -14,15 +14,15 @@ permalink: /lab-equipment/
 
 <h3>Computing Hardware</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>3 NVIDIA GPUs</strong> (2×40 GB, 1×96 GB) for deep learning and AI model training <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>2 high-performance CPU nodes</strong> ( 56-60 cores, 256-512 GB RAM)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(-45deg);">→</span></a> <strong>3 NVIDIA GPUs</strong> (2×40 GB, 1×96 GB) for deep learning and AI model training <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(-45deg);">→</span></a> <strong>2 high-performance CPU nodes</strong> ( 56-60 cores, 256-512 GB RAM)
 
 
 <h3>Software </h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Gurobi Optimizer and IPOPT Solver</strong> — for large-scale mathematical optimization <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Python</strong> — for machine learning and energy system modeling <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>TensorFlow / PyTorch / Keras </strong> — for deep learning and forecasting research <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(-45deg);">→</span></a> <strong>Gurobi Optimizer and IPOPT Solver</strong> — for large-scale mathematical optimization <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(-45deg);">→</span></a> <strong>Python</strong> — for machine learning and energy system modeling <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(-45deg);">→</span></a> <strong>TensorFlow / PyTorch / Keras </strong> — for deep learning and forecasting research <br>
 
 
 
