@@ -111,10 +111,10 @@ title: "Projects"
 
 
 
-<hr style="margin: 20px 0;">
+<hr style="margin: 22px 0;">
 <h3 style="text-align: left;">A. Smart Grid Optimization</h3>
 
-<div style="text-align: center; margin-bottom: 15px;">
+<div style="text-align: center; margin-bottom: 0px;">
   <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:80px; border-radius:10px;">
 </div>
 
