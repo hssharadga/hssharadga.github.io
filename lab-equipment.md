@@ -1,13 +1,12 @@
 ---
 layout: page
-title: "Lab Equipment"
+title: " "
 permalink: /lab-equipment/
 ---
 
-<h2>Lab Equipment & Computational Resources</h2>
 
 <p>
-  Our research lab is equipped with high-performance hardware and software 
+  My research lab is equipped with high-performance hardware and software 
   to support AI, optimization, and large-scale simulation research.
 </p>
 
@@ -38,7 +37,7 @@ permalink: /lab-equipment/
 </ul>
 
 <div style="text-align:center; margin-top:30px;">
-  <img src="/assets/images/gpu.png" alt="GPU" style="width:150px; margin:10px;">
-  <img src="/assets/images/python-logo.png" alt="Python" style="width:100px; margin:10px;">
+  <img src="/assets/gpu.png" alt="GPU" style="width:150px; margin:10px;">
+  <img src="/assets/python-logo.png" alt="Python" style="width:100px; margin:10px;">
   <img src="/assets/images/gurobi-logo.png" alt="Gurobi" style="width:130px; margin:10px;">
 </div>
