@@ -44,8 +44,9 @@ permalink: /lab-equipment/
     <!-- <div style="margin-top:5px;">Gurobi Solver</div> -->
   </div>
 
-    <div style="text-align:center;">
-    <img src="/assets/python-logo.png" alt="Python" style="width:110px;">
-    <!-- <div style="margin-top:5px;">Python</div> -->
+  <div style="text-align:center;">
+  <img src="/assets/python-logo.png" alt="Python" style="width:110px;">
+  <!-- <div style="margin-top:5px;">Python</div> -->
   </div>
+  
 </div>
