@@ -16,7 +16,6 @@ permalink: /lab-equipment/
 <ul>
   <li><strong>3 NVIDIA GPUs</strong> for deep learning and AI model training</li>
   <li><strong>High-performance CPUs</strong> (multi-core processors with 128 GB RAM)</li>
-  <li>Dedicated workstations for simulation and optimization tasks</li>
 </ul>
 
 <h3>💻 Software & Tools</h3>
@@ -27,14 +26,7 @@ permalink: /lab-equipment/
   <li><strong>MATLAB</strong> — for control and energy system simulation</li>
 </ul>
 
-<hr style="margin: 20px 0;">
 
-<h3>⚙️ Applications</h3>
-<ul>
-  <li>AI-based power forecasting and control</li>
-  <li>Optimization under uncertainty</li>
-  <li>Computer vision and image restoration</li>
-</ul>
 
 <div style="text-align:center; margin-top:30px;">
   <img src="/assets/GPU.jpg" alt="GPU" style="width:150px; margin:10px;">
