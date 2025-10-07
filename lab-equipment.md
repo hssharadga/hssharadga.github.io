@@ -36,16 +36,16 @@ permalink: /lab-equipment/
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-top: 30px; flex-wrap: wrap;">
   <div style="text-align:center;">
     <img src="/assets/python-logo.png" alt="Python" style="width:110px;">
-    <div style="margin-top:5px;">Python</div>
+    <!-- <div style="margin-top:5px;">Python</div> -->
   </div>
 
   <div style="text-align:center;">
     <img src="/assets/GPU.jpg" alt="GPU" style="width:150px;">
-    <div style="margin-top:5px;">3 GPUs</div>
+    <!-- <div style="margin-top:5px;">3 GPUs</div> -->
   </div>
 
   <div style="text-align:center;">
     <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi" style="width:120px;">
-    <div style="margin-top:5px;">Gurobi Solver</div>
+    <!-- <div style="margin-top:5px;">Gurobi Solver</div> -->
   </div>
 </div>
