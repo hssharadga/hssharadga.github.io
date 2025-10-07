@@ -100,8 +100,8 @@ title: "Projects"
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931021007717" target="_blank">Radiation in Porous Media</a><br> --> 
 
 
-<hr style="margin: 20px 0;">
-<h3 style="text-align: left;">A. Smart Grid Optimization</h3>
+<!-- <hr style="margin: 20px 0;">
+<h3 style="text-align: left;">A. Smart Grid Optimization</h3> -->
 
 <!--  &nbsp;&nbsp;My Python Tool was awarded <strong>$115K</strong> in the 
 <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a> Power Grid Optimization competition! <br>
@@ -125,9 +125,6 @@ title: "Projects"
   <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC
   <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
-
-<hr style="margin: 20px 0;">
-
 
 
 
