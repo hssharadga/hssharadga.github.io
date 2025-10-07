@@ -9,7 +9,6 @@ permalink: /lab-equipment/
   My research lab is equipped with high-performance hardware and software 
   to support AI, and large-scale Optimization research.
 </p>
-
 <hr style="margin: 20px 0;">
 
 <h3>Computing Hardware</h3>
