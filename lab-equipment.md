@@ -1,0 +1,44 @@
+---
+layout: page
+title: "Lab Equipment"
+permalink: /lab-equipment/
+---
+
+<h2>Lab Equipment & Computational Resources</h2>
+
+<p>
+  Our research lab is equipped with high-performance hardware and software 
+  to support AI, optimization, and large-scale simulation research.
+</p>
+
+<hr style="margin: 20px 0;">
+
+<h3>🧠 Computing Hardware</h3>
+<ul>
+  <li><strong>3 NVIDIA GPUs</strong> for deep learning and AI model training</li>
+  <li><strong>High-performance CPUs</strong> (multi-core processors with 128 GB RAM)</li>
+  <li>Dedicated workstations for simulation and optimization tasks</li>
+</ul>
+
+<h3>💻 Software & Tools</h3>
+<ul>
+  <li><strong>Python</strong> — for machine learning and energy system modeling</li>
+  <li><strong>Gurobi Optimizer</strong> — for large-scale mathematical optimization</li>
+  <li><strong>TensorFlow / PyTorch</strong> — for deep learning and forecasting research</li>
+  <li><strong>MATLAB</strong> — for control and energy system simulation</li>
+</ul>
+
+<hr style="margin: 20px 0;">
+
+<h3>⚙️ Applications</h3>
+<ul>
+  <li>AI-based power forecasting and control</li>
+  <li>Optimization under uncertainty</li>
+  <li>Computer vision and image restoration</li>
+</ul>
+
+<div style="text-align:center; margin-top:30px;">
+  <img src="/assets/images/gpu.png" alt="GPU" style="width:150px; margin:10px;">
+  <img src="/assets/images/python-logo.png" alt="Python" style="width:100px; margin:10px;">
+  <img src="/assets/images/gurobi-logo.png" alt="Gurobi" style="width:130px; margin:10px;">
+</div>
