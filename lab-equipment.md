@@ -7,23 +7,23 @@ permalink: /lab-equipment/
 
 <p>
   My research lab is equipped with high-performance hardware and software 
-  to support AI, optimization, and large-scale simulation research.
+  to support AI, and large-scale Optimization research.
 </p>
 
 <hr style="margin: 20px 0;">
 
 <h3>Computing Hardware</h3>
-<ul>
-  <li><strong>3 NVIDIA GPUs</strong> for deep learning and AI model training</li>
-  <li><strong>High-performance CPUs</strong> ( 56-60 multi-core processors with 256-512 GB RAM)</li>
-</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>3 NVIDIA GPUs</strong> (2×40 GB, 1×96 GB) for deep learning and AI model training <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>2 high-performance CPU nodes</strong> ( 56-60 cores, 256-512 GB RAM)</li>
+
 
 <h3>Software </h3>
-<ul>
-  <li><strong>Python</strong> — for machine learning and energy system modeling</li>
-  <li><strong>Gurobi Optimizer</strong> — for large-scale mathematical optimization</li>
-  <li><strong>TensorFlow / PyTorch</strong> — for deep learning and forecasting research</li>
-</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Gurobi Optimizer and IPOPT Solver</strong> — for large-scale mathematical optimization <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Python</strong> — for machine learning and energy system modeling <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>TensorFlow / PyTorch / Keras </strong> — for deep learning and forecasting research <br>
+
 
 
 
