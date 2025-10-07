@@ -40,7 +40,7 @@ permalink: /lab-equipment/
   </div>
 
   <div style="text-align:center;">
-    <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi" style="width:120px;">
+    <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi" style="width:130px;">
     <!-- <div style="margin-top:5px;">Gurobi Solver</div> -->
   </div>
 
