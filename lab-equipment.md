@@ -14,7 +14,7 @@ permalink: /lab-equipment/
 <h3>Computing Hardware</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>3 NVIDIA GPUs</strong> (2×40 GB, 1×96 GB) for deep learning and AI model training <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>2 high-performance CPU nodes</strong> ( 56-60 cores, 256-512 GB RAM)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>2 High-Performance CPU nodes</strong> — 56–60 cores (112–120 threads), 256–512 GB RAM
 
 
 <h3>Software </h3>
