@@ -110,7 +110,7 @@ title: "Projects"
 <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC<span style="display: inline-block; transform: rotate(-45deg);">→</span></a> --> 
 
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-direction: row-reverse; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-direction: row-reverse; gap: 10px; flex-wrap: wrap;">
   <!-- ARPA-E Image -->
   <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:80px; border-radius:0;">
 
