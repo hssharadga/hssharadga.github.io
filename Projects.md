@@ -124,15 +124,17 @@ title: "Projects"
 
 
 
-<!-- GPU and GitHub section -->
-<div style="margin-top: 30px; text-align: center;">
-  <img src="/assets/GPU.jpg" alt="GPU" style="width:180px; margin-bottom:10px;">
-  <br>
-  <a href="https://github.com/hssharadga" target="_blank" style="font-weight:bold; text-decoration:none;">
-    Explore my code on GitHub <span style="display:inline-block; transform: rotate(-45deg);">→</span>
-  </a>
-</div>
+ <!-- Python logo -->
+  <div>
+    <img src="/assets/images/python-logo.png" alt="Python" style="width:120px;">
+  </div>
 
+  <!-- GPU image + text -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <img src="/assets/GPU.jpg" alt="GPU" style="width:140px;">
+    <span style="font-size: 1.1em;">3 GPUs available for AI & Optimization research</span>
+  </div>
+</div>
 
 <!-- [IEEE Transactions](https://hssharadga.github.io/assets/IEEE_TIA.pdf) <br>
 [IEEE- TPEC](https://hssharadga.github.io/assets/IEEE_TPEC.pdf) -->
