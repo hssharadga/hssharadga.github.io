@@ -126,7 +126,7 @@ title: "Projects"
 
  <!-- Python logo -->
   <div>
-    <img src="/assets/images/python-logo.png" alt="Python" style="width:120px;">
+    <img src="/assets/python-logo.png" alt="Python" style="width:120px;">
   </div>
 
   <!-- GPU image + text -->
