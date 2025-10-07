@@ -126,7 +126,7 @@ title: "Projects"
 
 <!-- GPU and GitHub section -->
 <div style="margin-top: 30px; text-align: center;">
-  <img src="/assets/gpu.png" alt="GPU" style="width:180px; margin-bottom:10px;">
+  <img src="/assets/GPU.jpg" alt="GPU" style="width:180px; margin-bottom:10px;">
   <br>
   <a href="https://github.com/hssharadga" target="_blank" style="font-weight:bold; text-decoration:none;">
     Explore my code on GitHub <span style="display:inline-block; transform: rotate(-45deg);">→</span>
