@@ -30,5 +30,5 @@ permalink: /lab-equipment/
 <div style="text-align:center; margin-top:30px;">
   <img src="/assets/GPU.jpg" alt="GPU" style="width:150px; margin:10px;">
   <img src="/assets/python-logo.png" alt="Python" style="width:100px; margin:10px;">
-  <img src="/assets/gurobi-logo.jpeg" alt="Gurobi" style="width:130px; margin:10px;">
+  <img src="/assets/gurobi-logo.jpg" alt="Gurobi" style="width:130px; margin:10px;">
 </div>
