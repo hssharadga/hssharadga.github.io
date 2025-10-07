@@ -119,7 +119,7 @@ title: "Projects"
     &nbsp;&nbsp;My Python Tool was awarded <strong>$115K</strong> in the 
     <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a> Power Grid Optimization competition! <br>
     &nbsp;&nbsp;Related publications: <br>
-    <a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions
+    &nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions
       <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
     <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC
       <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
