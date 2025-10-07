@@ -112,7 +112,7 @@ title: "Projects"
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- ARPA-E Image -->
-  <img src="/assets/Gurobi_Logo.jpg" alt="ARPA-E Logo" style="width:150px; border-radius:10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+  <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:150px; border-radius:10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
 
   <!-- Description -->
   <div style="flex: 1; min-width: 250px;">
