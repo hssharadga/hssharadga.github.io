@@ -37,10 +37,10 @@ permalink: /lab-equipment/
 
   <!-- Right side: Gurobi and Python stacked -->
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <div style="text-align:center;">
+    <div style="text-align:lef;">
       <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi" style="width:160px;">
     </div>
-    <div style="text-align:center;">
+    <div style="text-align:left;">
       <img src="/assets/python-logo.png" alt="Python" style="width:110px;">
     </div>
   </div>
