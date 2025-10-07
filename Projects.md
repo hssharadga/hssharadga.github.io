@@ -84,7 +84,7 @@ title: "Projects"
 &nbsp;&nbsp;My Python code was awarded <strong>$115K</strong> in the 
 <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a> Power Grid Optimization competition! <br>
 &nbsp;&nbsp;Related publications: <br>
-&nbsp;&nbsp;&nbsp;|&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions</a> |
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions</a> |
 <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC</a> |
 
 <h3 style="text-align: left;">AI Projects</h3>
@@ -112,14 +112,14 @@ title: "Projects"
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-direction: row-reverse; gap: 10px; flex-wrap: wrap;">
   <!-- ARPA-E Image -->
-  <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:80px; border-radius:0;">
+  <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:100px; border-radius:0;">
 
   <!-- Description -->
   <div style="flex: 1; min-width: 250px;">
     &nbsp;&nbsp;My Python Tool was awarded <strong>$115K</strong> in the 
     <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a> Power Grid Optimization competition! <br>
     &nbsp;&nbsp;Related publications: <br>
-    &nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions
+   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions
       <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
     <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC
       <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
