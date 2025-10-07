@@ -23,7 +23,7 @@ permalink: /lab-equipment/
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Gurobi Optimizer and IPOPT Solver</strong> — for large-scale mathematical optimization <br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Python</strong> — for machine learning and energy system modeling <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>TensorFlow / PyTorch / Keras </strong> — for deep learning and forecasting research <br> -->
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Python</strong> — TensorFlow / PyTorch / Keras  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Python</strong> — TensorFlow / PyTorch / Keras for deep learning and forecasting research <br>
 
 
 
