@@ -114,9 +114,6 @@ title: "Projects"
 <hr style="margin: 22px 0;">
 <h3 style="text-align: left;">A. Smart Grid Optimization</h3>
 
-<div style="text-align: left;">
-  <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:70px; border-radius:10px;">
-</div>
 &nbsp;&nbsp;My Python Tool was awarded <strong>$115K</strong> in the 
 <a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a> Power Grid Optimization competition! <br>
 &nbsp;&nbsp;Related publications: <br>
@@ -125,6 +122,9 @@ title: "Projects"
 <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC
   <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
+<div style="text-align: left;">
+  <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:70px; border-radius:10px;">
+</div>
 
 
 <hr style="margin: 20px 0;">
