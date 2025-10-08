@@ -3,7 +3,7 @@ layout: page
 title: "Projects"
 ---
 
-<hr style="margin: 20px 0;">
+<!-- <hr style="margin: 20px 0;">
 <h3 style="text-align: left;">A. Smart Grid Optimization</h3>
 
 &nbsp;&nbsp;My Python Tool was awarded <strong>$115K</strong> in the 
@@ -33,6 +33,6 @@ title: "Projects"
   Maximum Power Tracking Controller<span style="display: inline-block; transform: rotate(-45deg);">→</span></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Computer Vision: Image Inpainting - Preprint<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
-<hr style="margin: 20px 0;">
+<hr style="margin: 20px 0;"> -->
 
 
