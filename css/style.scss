@@ -25,3 +25,10 @@
 // Pages
 @import "pages/landing";
 @import "pages/posts";
+
+/* Apply to the whole page */
+html {
+  zoom: 0.8; /* Chrome, Edge, Safari */
+  -moz-transform: scale(0.8); /* Firefox */
+  -moz-transform-origin: 0 0; /* Make sure scaling starts from top-left */
+}
