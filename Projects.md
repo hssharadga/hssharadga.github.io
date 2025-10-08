@@ -3,7 +3,7 @@ layout: page
 title: "Projects"
 ---
 
-<hr style="margin: 22px 0;">
+<hr style="margin: 20px 0;">
 <h3 style="text-align: left;">A. Smart Grid Optimization</h3>
 
 &nbsp;&nbsp;My Python Tool was awarded <strong>$115K</strong> in the 
