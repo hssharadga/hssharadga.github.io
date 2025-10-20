@@ -32,6 +32,18 @@ title: "Projects"
   Maximum Power Tracking Controller<span style="display: inline-block; transform: rotate(-45deg);">→</span></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Computer Vision: Image Inpainting - Preprint<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
+
+
+  <!-- GPU Video replacing the image -->
+  <div style="text-align:center;">
+    <video width="140" autoplay loop muted style="display:block;">
+        <source src="/assets/GPU.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <!-- <div style="margin-top:5px;">3 GPUs</div> -->
+  </div>
+
+  
 <hr style="margin: 20px 0;">
 
 
