@@ -31,18 +31,6 @@ title: "Projects"
 <a href="https://www.mdpi.com/2071-1050/16/3/1021" target="_blank">
   Maximum Power Tracking Controller<span style="display: inline-block; transform: rotate(-45deg);">→</span></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Computer Vision: Image Inpainting - Preprint<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
-
-
-
-<div style="text-align:center;">
-  <video width="140" autoplay loop muted 
-         style="display:block; margin-left:20px; filter: brightness(1.5);">
-      <source src="/assets/GPU.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-  </video>
-</div>
-
-
   
 <hr style="margin: 20px 0;">
 
