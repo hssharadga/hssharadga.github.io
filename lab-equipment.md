@@ -36,31 +36,26 @@ permalink: /lab-equipment/
 
 
 
-<!-- Images/Video aligned side by side -->
+<!-- Images aligned side by side -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-top: 30px; flex-wrap: wrap;">
-
-  <!-- GPU Video replacing the image -->
   <div style="text-align:center;">
-    <video width="140" autoplay loop muted style="display:block;">
-        <source src="/assets/GPU.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <img src="/assets/GPU.jpg" alt="GPU" style="width:140px;">
     <!-- <div style="margin-top:5px;">3 GPUs</div> -->
   </div>
 
-  <!-- Gurobi Logo -->
   <div style="text-align:center;">
     <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi" style="width:160px;">
     <!-- <div style="margin-top:5px;">Gurobi Solver</div> -->
   </div>
 
-  <!-- Python Logo -->
   <div style="text-align:center;">
-    <img src="/assets/python-logo.png" alt="Python" style="width:90px;">
-    <!-- <div style="margin-top:5px;">Python</div> -->
+  <img src="/assets/python-logo.png" alt="Python" style="width:90px;">
+  <!-- <div style="margin-top:5px;">Python</div> -->
   </div>
   
 </div>
+
+
 
 
 
