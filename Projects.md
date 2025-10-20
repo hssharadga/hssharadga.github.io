@@ -34,14 +34,14 @@ title: "Projects"
 
 
 
-  <!-- GPU Video replacing the image -->
-  <div style="text-align:center;">
-    <video width="140" autoplay loop muted style="display:block;">
-        <source src="/assets/GPU.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-    <!-- <div style="margin-top:5px;">3 GPUs</div> -->
-  </div>
+<div style="text-align:center;">
+  <video width="140" autoplay loop muted 
+         style="display:block; margin-left:20px; filter: brightness(1.5);">
+      <source src="/assets/GPU.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+</div>
+
 
   
 <hr style="margin: 20px 0;">
