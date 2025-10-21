@@ -48,22 +48,8 @@ title: Home
     </p>
 
     <!-- INLINE PLAIN-TEXT VISITOR COUNTER -->
-    <p style="text-align: left; font-family: sans-serif; font-size: 14px; margin: 0;">
-      Visitors: <span id="visitor-count" style="font-weight: bold;">Loading...</span>
-    </p>
-    
-    <script>
-    (async () => {
-      try {
-        const res = await fetch('https://api.countapi.xyz/hit/hssharadga-github-io/visits');
-        const data = await res.json();
-        document.getElementById('visitor-count').textContent = data.value;
-      } catch (err) {
-        console.log('Error fetching visitor count:', err);
-        document.getElementById('visitor-count').textContent = "N/A";
-      }
-    })();
-    </script>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hssharadga.hssharadga" alt="visitor badge">
+
 
 
 
