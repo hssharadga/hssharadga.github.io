@@ -49,9 +49,22 @@ title: Home
 
     <!-- INLINE PLAIN-TEXT VISITOR COUNTER -->
     <p style="text-align: left;">
-      Visitors: 
-      <img src="https://img.shields.io/badge/Visitors-123-000000?style=flat&labelColor=ffffff&color=ffffff&logo=" alt="visitor count"/>
+      Visitors: <span id="visitor-count">Loading...</span>
     </p>
+    
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      fetch('https://my-vercel-functions-b9c64dqy8-hussein-sharadgas-projects.vercel.app/api/visitors')
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('visitor-count').textContent = data.count;
+        })
+        .catch(err => {
+            document.getElementById('visitor-count').textContent = "N/A";
+            console.error('Error fetching visitor count:', err);
+        });
+    });
+    </script>
 
 
 
