@@ -47,23 +47,14 @@ title: Home
       Feel free to reach out at: hssharadga@tamu.edu
     </p>
 
-    <!-- PLAIN TEXT VISITOR COUNTER -->
-    <p style="text-align: left; font-weight: bold; color: black;">
-      Visitors: <span id="visitor-count">Loading...</span>
+    <!-- INLINE PLAIN-TEXT VISITOR COUNTER -->
+    <p style="text-align: left; font-weight: normal; color: black;">
+      Visitors: 
+      <iframe src="https://countapi.xyz/hit/hssharadga.github.io/visits?format=plain"
+              style="border:none; width:50px; height:20px; display:inline;" 
+              scrolling="no"></iframe>
     </p>
 
-    <script>
-      // Plain text visitor counter using CountAPI
-      fetch('https://api.countapi.xyz/hit/hssharadga.github.io/visits')
-        .then(response => response.json())
-        .then(data => {
-          document.getElementById('visitor-count').textContent = data.value;
-        })
-        .catch(err => {
-          console.log('Error fetching visitor count:', err);
-          document.getElementById('visitor-count').textContent = "N/A";
-        });
-    </script>
 
   </div>
 </div>
