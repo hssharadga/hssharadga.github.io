@@ -109,25 +109,21 @@ Explore my work on
     Feel free to reach out at: hssharadga@tamu.edu
 </p> 
 
-
+<p style="text-align: left;">
+  Visitors: <span id="visitor-count">Loading...</span>
+</p>
+<script>
+fetch('https://api.countapi.xyz/hit/hssharadga.github.io/visits')
+  .then(response => response.json())
+  .then(data => {
+      document.getElementById('visitor-count').textContent = data.value;
+  })
+  .catch(err => {
+      console.log('Error fetching visitor count:', err);
+  });
+</script>
 
 
     
 </div>
 
-    <p style="text-align: left;">
-  Visitors: <span id="visitor-count">Loading...</span>
-</p>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  fetch('https://api.countapi.xyz/hit/hssharadga.github.io/visits')
-    .then(response => response.json())
-    .then(data => {
-        document.getElementById('visitor-count').textContent = data.value;
-    })
-    .catch(err => {
-        console.log('Error fetching visitor count:', err);
-    });
-});
-</script>
