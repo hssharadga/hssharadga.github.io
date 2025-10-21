@@ -47,13 +47,23 @@ title: Home
       Feel free to reach out at: hssharadga@tamu.edu
     </p>
 
-    <!-- VISITOR BADGE -->
-    <p style="text-align: left;">
-      Visitors: 
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=hssharadga.hssharadga&style=flat&count_bg=%23ffffff00&title_bg=%23ffffff00&icon=" alt="visitor count"/>
+    <!-- PLAIN TEXT VISITOR COUNTER -->
+    <p style="text-align: left; font-weight: bold; color: black;">
+      Visitors: <span id="visitor-count">Loading...</span>
     </p>
 
-
+    <script>
+      // Plain text visitor counter using CountAPI
+      fetch('https://api.countapi.xyz/hit/hssharadga.github.io/visits')
+        .then(response => response.json())
+        .then(data => {
+          document.getElementById('visitor-count').textContent = data.value;
+        })
+        .catch(err => {
+          console.log('Error fetching visitor count:', err);
+          document.getElementById('visitor-count').textContent = "N/A";
+        });
+    </script>
 
   </div>
 </div>
