@@ -53,15 +53,16 @@ title: Home
     </p>
     
     <script>
-    fetch('https://api.countapi.xyz/hit/hssharadga.github.io/visits')
-      .then(res => res.json())
-      .then(data => {
+    (async () => {
+      try {
+        const res = await fetch('https://api.countapi.xyz/hit/hssharadga-github-io/visits');
+        const data = await res.json();
         document.getElementById('visitor-count').textContent = data.value;
-      })
-      .catch(err => {
+      } catch (err) {
         console.log('Error fetching visitor count:', err);
         document.getElementById('visitor-count').textContent = "N/A";
-      });
+      }
+    })();
     </script>
 
 
