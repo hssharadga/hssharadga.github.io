@@ -113,8 +113,8 @@ Explore my work on
   Visitors: <span id="visitor-count">Loading...</span>
 </p>
 
-  <script>
-  // Increment and fetch the visitor count
+<script>
+document.addEventListener('DOMContentLoaded', function() {
   fetch('https://api.countapi.xyz/hit/hssharadga.github.io/visits')
     .then(response => response.json())
     .then(data => {
@@ -123,7 +123,9 @@ Explore my work on
     .catch(err => {
         console.log('Error fetching visitor count:', err);
     });
+});
 </script>
+
 
     
 </div>
