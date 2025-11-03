@@ -17,6 +17,7 @@ title: "Projects"
   <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:70px; border-radius:10px; margin-left:8pt;">
 </div>
 
+&nbsp;&nbsp;<strong>Current work:</strong> GPU-Accelerated Optimization Solver.
 
 <hr style="margin: 20px 0;">
 <h3 style="text-align: left;">B. AI Projects</h3>
