@@ -54,7 +54,7 @@ permalink: /lab-equipment/
   </div>
 
   <div style="text-align:center;">
-  <img src="/assets/WSL.jpg" alt="Python" style="width:90px;">
+  <img src="/assets/WSL.jpg" alt="Python" style="width:100px;">
   <!-- <div style="margin-top:5px;">WSL</div> -->
   </div>
   
