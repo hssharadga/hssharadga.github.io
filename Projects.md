@@ -18,7 +18,7 @@ title: "Projects"
 </div>
 
 &nbsp;&nbsp;<strong>Current work:</strong> GPU-Accelerated Optimization Solver.  <br>
-&nbsp;&nbsp;Related publications: <a href="https://hssharadga.github.io/assets/IEEE-TPEC26.pdf" target="_blank"> <span style="color: red;">IEEE-TPEC26</span>
+&nbsp;&nbsp;Related publications: <a href="https://hssharadga.github.io/assets/IEEE-TPEC26.pdf" target="_blank"> <span style="color: #b00020;">IEEE-TPEC26</span>
   <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
 
