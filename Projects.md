@@ -18,7 +18,7 @@ title: "Projects"
 </div>
 
 &nbsp;&nbsp;<strong>Current work:</strong> GPU-Accelerated Optimization Solver.  <br>
-&nbsp;&nbsp;Related publications: <a href="https://hssharadga.github.io/assets/IEEE-TPEC26.pdf" target="_blank"> <span style="color: #b00020;">IEEE-TPEC26</span>
+&nbsp;&nbsp;Related publications: <a href="https://hssharadga.github.io/assets/IEEE-TPEC26.pdf" target="_blank"> <span style="color: #9000b8;">IEEE-TPEC26</span>
   <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
 
@@ -34,7 +34,7 @@ title: "Projects"
   Demand-Power Controller<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 <a href="https://www.mdpi.com/2071-1050/16/3/1021" target="_blank">
   Maximum Power Tracking Controller<span style="display: inline-block; transform: rotate(-45deg);">→</span></a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/Inpainting.pdf" target="_blank">Computer Vision: Image Inpainting - Preprint<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hssharadga.github.io/assets/Inpainting.pdf" target="_blank">  <span style="color: #9000b8;">Computer Vision: Image Inpainting - Preprint</span><span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ssrn.com/abstract=5337189" target="_blank">Computer Vision: Image Inpainting - Preprint<span style="display: inline-block; transform: rotate(-45deg);">→</span></a> -->
 
