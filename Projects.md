@@ -30,7 +30,7 @@ title: "Projects"
 &nbsp;&nbsp;&nbsp;&nbsp;- <strong>Computer Vision:</strong> Image Analysis & Restoration<br><br>
 
 <div style="text-align: left;">
-  <img src="/assets/AI1.jpg" alt="ARPA-E Logo" style="width:70px; border-radius:10px; margin-left:8pt;">
+  <img src="/assets/AI1.jpg" alt="ARPA-E Logo" style="width:100px; border-radius:0px; margin-left:8pt;">
 </div>
 
 &nbsp;&nbsp;Related publications: <br>
