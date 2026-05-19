@@ -16,6 +16,9 @@ title: "Projects"
 <div style="text-align: left;">
   <img src="/assets/ARPA-E.jpeg" alt="ARPA-E Logo" style="width:70px; border-radius:10px; margin-left:8pt;">
 </div>
+<br>
+<br>
+
 
 &nbsp;&nbsp;<strong>Current work:</strong> **GPU**-Accelerated Optimization Solver.  <br>
 &nbsp;&nbsp;Related publications: <a href="https://hssharadga.github.io/assets/IEEE-TPEC26.pdf" target="_blank">IEEE-TPEC26
