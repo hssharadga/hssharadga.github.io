@@ -21,7 +21,7 @@ title: "Projects"
 &nbsp;&nbsp;<strong>Current work:</strong> **GPU**-Accelerated Optimization Solver.  <br>
 &nbsp;&nbsp;Related publications: <a href="https://hssharadga.github.io/assets/IEEE-TPEC26.pdf" target="_blank">IEEE-TPEC26
   <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
-  <a href="https://hssharadga.github.io/assets/IEEE-SmartGridComm26.pdf" target="_blank">IEEE-SmartGridComm26
+  <a href="https://hssharadga.github.io/assets/IEEE-SmartGridComm26.pdf" target="_blank">IEEE-SmartGrid26
   <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 
 
