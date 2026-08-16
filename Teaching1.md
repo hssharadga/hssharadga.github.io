@@ -17,5 +17,5 @@ title: "Teaching"
 &nbsp;&nbsp;&nbsp;&nbsp;**12. Measurement Lab:** 1 semesters <br>
 &nbsp;&nbsp;&nbsp;&nbsp;**13. Dynamics:** 1 semester <br>
 
-&nbsp;&nbsp; Student evaluations are available using my last name at: https://utpb.evaluationkit.com/Report/Public<br>
-
+&nbsp;&nbsp; Student evaluations are available using my last name at:<br>
+&nbsp;&nbsp; https://utpb.evaluationkit.com/Report/Public<br>
