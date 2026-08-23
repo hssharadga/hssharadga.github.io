@@ -4,7 +4,8 @@ title: "Teaching"
 ---
 
 
-I have taught undergraduate and graduate courses across mechanical engineering, systems engineering, artificial intelligence, optimization, and engineering fundamentals. My teaching integrates mathematical foundations, computational tools, and engineering applications.
+I have taught undergraduate and graduate courses across mechanical engineering, systems engineering, artificial intelligence, optimization, and engineering fundamentals. <br>
+My teaching integrates mathematical foundations, computational tools, and engineering applications.
 
 ### AI, Optimization & Data
 
