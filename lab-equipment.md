@@ -19,7 +19,7 @@ permalink: /lab-equipment/
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block;">↳</span> 256–512 GB RAM<br> -->
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>System Memory</strong> — 256–512 GB RAM
 
-<h3>Software </h3>
+<h3>Software & Computing Environment </h3>
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Gurobi Optimizer and IPOPT Solver</strong> — for large-scale mathematical optimization <br> -->
 
