@@ -29,9 +29,9 @@ title: "Projects"
 <hr style="margin: 20px 0;">
 <h3 style="text-align: left;">B. AI Projects</h3>
 
-&nbsp;&nbsp;<strong>Applications:</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Smart Power Grid:</strong> Forecasting, Control & Optimization<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Computer Vision:</strong> Image Analysis & Restoration<br><br>
+&nbsp;&nbsp;Applications:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Smart Power Grid: Forecasting, Control & Optimization<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Computer Vision: Image Analysis & Restoration<br><br>
 &nbsp;&nbsp;Related publications: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148119320038" target="_blank">Power Forecasting<span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8839823" target="_blank">
