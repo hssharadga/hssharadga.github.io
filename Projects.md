@@ -6,8 +6,9 @@ title: "Projects"
 <hr style="margin: 20px 0;">
 <h3 style="text-align: left;">A. Smart Grid Optimization</h3>
 
-&nbsp;&nbsp;My <strong>Python</strong> Tool was awarded <strong>$115K</strong> in the 
-<a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a> Power Grid Optimization competition! <br>
+<!-- &nbsp;&nbsp;My <strong>Python</strong> Tool was awarded <strong>$115K</strong> in the 
+<a href="https://gocompetition.energy.gov/" target="_blank">ARPA-E</a> Power Grid Optimization competition! <br> -->
+&nbsp;&nbsp;<strong>ARPA-E</strong> awarded <strong>$115K</strong> for my Python tool in the Power Grid Optimization competition! <br>
 &nbsp;&nbsp;Related publications: <a href="https://hssharadga.github.io/assets/IEEE_TIA.pdf" target="_blank">IEEE Transactions
   <span style="display: inline-block; transform: rotate(-45deg);">→</span></a>
 <a href="https://hssharadga.github.io/assets/IEEE_TPEC.pdf" target="_blank">IEEE-TPEC
