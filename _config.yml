@@ -20,7 +20,7 @@ sass:
 author:
   name:              Hussein Sharadga
   url:               https://hssharadga.github.io/
-  email:             hssharadga@utexas.edu
+  email:             hssharadga@tamu.edu
 
 plugins:
   - jekyll-coffeescript
