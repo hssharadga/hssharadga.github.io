@@ -7,13 +7,13 @@ permalink: /lab-equipment/
 
 <p>
   My research lab, <strong>CudaOpt</strong>, is equipped with high-performance hardware and software to <br>
-  support AI, and large-scale Optimization research.
+  support AI and large-scale Optimization research.
 </p>
 <hr style="margin: 20px 0;">
 
 <h3>Computing Hardware</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>4 NVIDIA GPUs</strong> — 2×40 GB, 2×96 GB, for deep learning and AI model training <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>4 NVIDIA GPUs</strong> — 2×40 GB and 2×96 GB, for AI model training, and large-scale optimization. <br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>2 High-Performance CPU nodes</strong> — 56–60 cores (112–120 threads), 256–512 GB RAM -->
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>2 High-Performance CPU nodes</strong> — 56–60 cores (112–120 threads) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block;">↳</span> 256–512 GB RAM<br>
@@ -24,7 +24,7 @@ permalink: /lab-equipment/
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Gurobi Optimizer and IPOPT Solver</strong> — for large-scale mathematical optimization <br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Python</strong> — for machine learning and energy system modeling <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>TensorFlow / PyTorch / Keras </strong> — for deep learning and forecasting research <br> -->
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Python</strong> — TensorFlow / PyTorch / Keras for AI research <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>Python</strong> — TensorFlow, PyTorch, Keras for AI research <br>
 
 <hr style="margin: 20px 0;">
 
