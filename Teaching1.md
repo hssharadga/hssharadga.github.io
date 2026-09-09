@@ -21,7 +21,7 @@ My teaching integrates mathematical foundations, computational tools, and engine
 - **Thermodynamics II** — 1 semester
 - **Heat Transfer** — 2 semesters
 - **Dynamics** — 1 semester
-- **Computer-Aided Design** — 1 semester
+- **Computer-Aided Design** — 2 semesters
 
 
 ### Engineering Foundations & Laboratories
