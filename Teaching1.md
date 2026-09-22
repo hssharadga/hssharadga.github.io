@@ -29,7 +29,7 @@ My teaching integrates mathematical foundations, computational tools, and engine
 
 - **Engineering Graphics** — 2 semesters (TAMIU)
 - **Thermofluids Lab** — 2 semesters (UTPB)
-- **Measurements Lab** — 1 semester (PVAMU)
+- **Measurements Lab** — 2 semesters (TAMU and PVAMU)
 - **Dynamic Systems & Control Lab** — 1 semester (TAMU)
 
 ### Student Evaluations
