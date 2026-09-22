@@ -7,8 +7,10 @@ title: "Teaching"
 I have taught undergraduate and graduate courses across mechanical engineering, systems engineering, artificial intelligence, optimization, and engineering fundamentals. <br>
 My teaching integrates mathematical foundations, computational tools, and engineering applications.
 
-
+<!--
 *Institution abbreviations: TAMIU = Texas A&M International University; UTPB = The University of Texas Permian Basin; PVAMU = Prairie View A&M University; TAMU = Texas A&M University.*
+-->
+
 ### AI, Optimization & Data
 
 - **Machine & Deep Learning** — 1 semester (TAMIU)
