@@ -11,7 +11,7 @@ permalink: /lab-equipment/
 </p>
 <hr style="margin: 20px 0;">
  
-<h3>Computing Hardware</h3>
+<h3>High-Performance Computing Servers</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>4 NVIDIA GPUs</strong> — 2×40 GB and 2×96 GB, for AI model training and large-scale optimization <br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>2 High-Performance Compute Servers</strong> — 56–60 cores (112–120 threads), 256–512 GB RAM -->
