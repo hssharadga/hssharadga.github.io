@@ -15,7 +15,7 @@ permalink: /lab-equipment/
 
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>4 NVIDIA GPUs</strong> — 2×40 GB and 2×96 GB, for AI model training and large-scale optimization <br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>2 High-Performance Compute Servers</strong> — 56–60 cores (112–120 threads), 256–512 GB RAM -->
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>2 High-Performance CPU nodes</strong> — 56–60 cores (112–120 threads) per node <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>2 High-Performance Compute Servers</strong> — 56–60 cores (112–120 threads) per node <br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block;">↳</span> 256–512 GB RAM<br> -->
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; transform: rotate(0deg);">→</span> <strong>System Memory</strong> — 256–512 GB RAM
 
