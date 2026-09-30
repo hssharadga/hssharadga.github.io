@@ -44,13 +44,11 @@ permalink: /lab-equipment/
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 50px; flex-wrap: wrap;">
 
   <div style="text-align:center;">
-    <img src="/assets/CUDA_Logo1.png" alt="NVIDIA CUDA" style="width:90px;"> 
+    <img src="/assets/CUDA_Logo1.png" alt="NVIDIA CUDA" style="width:100px;"> 
   </div>
 <!-- CUDA_Logo.jpg -->
 
-  <div style="text-align:center;">
-    <img src="/assets/WSL.jpg" alt="WSL and Linux" style="width:75px;">
-  </div>
+
 
   <div style="text-align:center;">
     <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi Optimizer" style="width:120px;">
@@ -60,13 +58,18 @@ permalink: /lab-equipment/
     <img src="/assets/python-logo.png" alt="Python" style="width:70px;">
   </div>
 
-
   <div style="text-align:center;">
-    <img src="/assets/server.png" alt="High-performance compute server" style="width:120px;">
+    <img src="/assets/WSL.jpg" alt="WSL and Linux" style="width:75px;">
   </div>
+  
+
   
   <div style="text-align:center;">
     <img src="/assets/GPU.jpg" alt="GPU" style="width:110px;">
+  </div>
+
+  <div style="text-align:center;">
+    <img src="/assets/server.png" alt="High-performance compute server" style="width:120px;">
   </div>
 
 </div>
