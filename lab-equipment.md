@@ -6,8 +6,8 @@ permalink: /lab-equipment/
 
 
 <p>
-  My research lab, <strong>CudaOpt</strong>, is equipped with high-performance computing servers and software to <br>
-  support AI and large-scale Optimization research.
+  My research lab, <strong>CudaOpt</strong>, is equipped with high-performance computing servers<br>
+   and software to support AI and large-scale Optimization research.
 </p>
 <hr style="margin: 20px 0;">
  
