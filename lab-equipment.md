@@ -38,36 +38,32 @@ permalink: /lab-equipment/
 
 
 
-<!-- Images aligned side by side -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 30px; flex-wrap: wrap;">
+
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 30px; flex-wrap: wrap;">
+
   <div style="text-align:center;">
-    <img src="/assets/GPU.jpg" alt="GPU" style="width:140px;">
-    <!-- <div style="margin-top:5px;">3 GPUs</div> -->
+    <img src="/assets/GPU.jpg" alt="GPU" style="width:110px;">
   </div>
 
   <div style="text-align:center;">
-    <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi" style="width:160px;">
-    <!-- <div style="margin-top:5px;">Gurobi Solver</div> -->
+    <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi Optimizer" style="width:120px;">
   </div>
 
   <div style="text-align:center;">
-  <img src="/assets/python-logo.png" alt="Python" style="width:90px;">
-  <!-- <div style="margin-top:5px;">Python</div> -->
+    <img src="/assets/python-logo.png" alt="Python" style="width:70px;">
   </div>
 
   <div style="text-align:center;">
-  <img src="/assets/WSL.jpg" alt="Python" style="width:100px;">
-  <!-- <div style="margin-top:5px;">WSL</div> -->
+    <img src="/assets/WSL.jpg" alt="WSL and Linux" style="width:75px;">
   </div>
-
 
   <div style="text-align:center;">
-  <img src="/assets/CUDA_Logo.jpg" alt="Python" style="width:100px;">
-  <!-- <div style="margin-top:5px;">WSL</div> -->
+    <img src="/assets/CUDA_Logo.jpg" alt="NVIDIA CUDA" style="width:80px;">
   </div>
-  
+
 </div>
-
 
 
 
