@@ -69,7 +69,7 @@ permalink: /lab-equipment/
   </div>
 
   <div style="text-align:center;">
-    <img src="/assets/server.png" alt="High-performance compute server" style="width:120px;">
+    <img src="/assets/server.png" alt="High-performance compute server" style="width:110px;">
   </div>
 
 </div>
