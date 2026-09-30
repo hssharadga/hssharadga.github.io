@@ -44,6 +44,10 @@ permalink: /lab-equipment/
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 30px; flex-wrap: wrap;">
 
   <div style="text-align:center;">
+    <img src="/assets/server.png" alt="High-performance compute server" style="width:120px;">
+  </div>
+  
+  <div style="text-align:center;">
     <img src="/assets/GPU.jpg" alt="GPU" style="width:110px;">
   </div>
 
