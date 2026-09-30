@@ -39,7 +39,7 @@ permalink: /lab-equipment/
 
 
 <!-- Images aligned side by side -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-top: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 30px; flex-wrap: wrap;">
   <div style="text-align:center;">
     <img src="/assets/GPU.jpg" alt="GPU" style="width:140px;">
     <!-- <div style="margin-top:5px;">3 GPUs</div> -->
