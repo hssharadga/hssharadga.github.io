@@ -59,6 +59,12 @@ permalink: /lab-equipment/
   <img src="/assets/WSL.jpg" alt="Python" style="width:100px;">
   <!-- <div style="margin-top:5px;">WSL</div> -->
   </div>
+
+
+  <div style="text-align:center;">
+  <img src="/assets/CUDA_Logo.jpg" alt="Python" style="width:100px;">
+  <!-- <div style="margin-top:5px;">WSL</div> -->
+  </div>
   
 </div>
 
