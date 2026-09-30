@@ -41,15 +41,7 @@ permalink: /lab-equipment/
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 30px; flex-wrap: wrap;">
-
-  <div style="text-align:center;">
-    <img src="/assets/server.png" alt="High-performance compute server" style="width:120px;">
-  </div>
-  
-  <div style="text-align:center;">
-    <img src="/assets/GPU.jpg" alt="GPU" style="width:110px;">
-  </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 50px; flex-wrap: wrap;">
 
   <div style="text-align:center;">
     <img src="/assets/CUDA_Logo.jpg" alt="NVIDIA CUDA" style="width:80px;">
@@ -66,6 +58,15 @@ permalink: /lab-equipment/
 
   <div style="text-align:center;">
     <img src="/assets/python-logo.png" alt="Python" style="width:70px;">
+  </div>
+
+
+  <div style="text-align:center;">
+    <img src="/assets/server.png" alt="High-performance compute server" style="width:120px;">
+  </div>
+  
+  <div style="text-align:center;">
+    <img src="/assets/GPU.jpg" alt="GPU" style="width:110px;">
   </div>
 
 </div>
