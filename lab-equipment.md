@@ -48,8 +48,6 @@ permalink: /lab-equipment/
   </div>
 <!-- CUDA_Logo.jpg -->
 
-
-
   <div style="text-align:center;">
     <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi Optimizer" style="width:120px;">
   </div>
@@ -61,8 +59,6 @@ permalink: /lab-equipment/
   <div style="text-align:center;">
     <img src="/assets/WSL.jpg" alt="WSL and Linux" style="width:75px;">
   </div>
-  
-
   
   <div style="text-align:center;">
     <img src="/assets/GPU.jpg" alt="GPU" style="width:110px;">
