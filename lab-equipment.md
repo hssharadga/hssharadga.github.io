@@ -44,9 +44,9 @@ permalink: /lab-equipment/
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 50px; flex-wrap: wrap;">
 
   <div style="text-align:center;">
-    <img src="/assets/CUDA_Logo.jpg" alt="NVIDIA CUDA" style="width:80px;">
+    <img src="/assets/CUDA_Logo1.png" alt="NVIDIA CUDA" style="width:80px;"> 
   </div>
-
+<!-- CUDA_Logo.jpg -->
 
   <div style="text-align:center;">
     <img src="/assets/WSL.jpg" alt="WSL and Linux" style="width:75px;">
