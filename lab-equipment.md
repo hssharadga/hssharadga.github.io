@@ -52,14 +52,6 @@ permalink: /lab-equipment/
   </div>
 
   <div style="text-align:center;">
-    <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi Optimizer" style="width:120px;">
-  </div>
-
-  <div style="text-align:center;">
-    <img src="/assets/python-logo.png" alt="Python" style="width:70px;">
-  </div>
-
-  <div style="text-align:center;">
     <img src="/assets/CUDA_Logo.jpg" alt="NVIDIA CUDA" style="width:80px;">
   </div>
 
@@ -68,6 +60,13 @@ permalink: /lab-equipment/
     <img src="/assets/WSL.jpg" alt="WSL and Linux" style="width:75px;">
   </div>
 
+  <div style="text-align:center;">
+    <img src="/assets/Gurobi_Logo.jpg" alt="Gurobi Optimizer" style="width:120px;">
+  </div>
+
+  <div style="text-align:center;">
+    <img src="/assets/python-logo.png" alt="Python" style="width:70px;">
+  </div>
 
 </div>
 
