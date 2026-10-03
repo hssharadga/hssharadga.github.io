@@ -13,10 +13,10 @@ I have taught undergraduate and graduate courses across mechanical engineering, 
 
 ### AI, Optimization & Data
 
-**Machine & Deep Learning** — 1 semester (TAMIU) <br>
-**Smart Grid Optimization** — 1 semester (TAMIU) <br>
-**Engineering Statistics** — 3 semesters (TAMIU) <br>
-**Engineering Modeling & Design** — 2 semesters (TAMIU) <br>
+→ **Machine & Deep Learning** — 1 semester (TAMIU) <br>
+→ **Smart Grid Optimization** — 1 semester (TAMIU) <br>
+→ **Engineering Statistics** — 3 semesters (TAMIU) <br>
+→ **Engineering Modeling & Design** — 2 semesters (TAMIU) <br>
 
 ### Mechanical Engineering
 
