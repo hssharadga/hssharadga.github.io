@@ -27,8 +27,27 @@
 @import "pages/posts";
 
 /* Apply to the whole page */
+// html {
+//   zoom: 0.6; /* Chrome, Edge, Safari */
+//   -moz-transform: scale(0.6); /* Firefox */
+//   -moz-transform-origin: 0 0; /* Make sure scaling starts from top-left */
+// }
+
+/* Default size */
 html {
-  zoom: 0.6; /* Chrome, Edge, Safari */
-  -moz-transform: scale(0.6); /* Firefox */
-  -moz-transform-origin: 0 0; /* Make sure scaling starts from top-left */
+  zoom: 0.6;
+}
+
+/* Wider browser windows */
+@media (min-width: 1600px) {
+  html {
+    zoom: 0.8;
+  }
+}
+
+/* Very wide browser windows */
+@media (min-width: 2200px) {
+  html {
+    zoom: 1;
+  }
 }
