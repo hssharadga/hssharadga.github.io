@@ -33,21 +33,21 @@
 //   -moz-transform-origin: 0 0; /* Make sure scaling starts from top-left */
 // }
 
-/* Default size */
-html {
-  zoom: 0.6;
-}
+// /* Default size */
+// html {
+//   zoom: 0.6;
+// }
 
-/* Wider browser windows */
-@media (min-width: 1600px) {
-  html {
-    zoom:1;
-  }
-}
+// /* Wider browser windows */
+// @media (min-width: 1600px) {
+//   html {
+//     zoom:1;
+//   }
+// }
 
-/* Very wide browser windows */
-@media (min-width: 2200px) {
-  html {
-    zoom: 1;
-  }
-}
+// /* Very wide browser windows */
+// @media (min-width: 2200px) {
+//   html {
+//     zoom: 1;
+//   }
+// }
