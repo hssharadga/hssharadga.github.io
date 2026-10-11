@@ -7,25 +7,25 @@
   @include prefix(box-sizing, border-box);
 }
 
-// html {
-//   font-family: $font-stack;
-//   font-size: $font-size;
-//   line-height: 1.5;
-
-//   @media (max-width: 38em) {
-//     font-size: $font-size-mobile;
-//   }
-// }
 html {
   font-family: $font-stack;
-  font-size: 16px;
+  font-size: $font-size;
   line-height: 1.5;
 
-  /* Grow gradually from 16px to 20px on wider windows */
-  @media (min-width: 64em) {
-    font-size: clamp(16px, calc(8px + 0.78125vw), 20px);
+  @media (max-width: 38em) {
+    font-size: $font-size-mobile;
   }
 }
+// html {
+//   font-family: $font-stack;
+//   font-size: 16px;
+//   line-height: 1.5;
+
+//   /* Grow gradually from 16px to 20px on wider windows */
+//   @media (min-width: 64em) {
+//     font-size: clamp(16px, calc(8px + 0.78125vw), 20px);
+//   }
+// }
 
 body {
   color: $body-text-color;
